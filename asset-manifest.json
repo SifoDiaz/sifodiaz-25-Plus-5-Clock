@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sifodiaz-25-Plus-5-Clock/static/css/main.5bf10aad.chunk.css",
+    "main.js": "/sifodiaz-25-Plus-5-Clock/static/js/main.5ef859c1.chunk.js",
+    "main.js.map": "/sifodiaz-25-Plus-5-Clock/static/js/main.5ef859c1.chunk.js.map",
+    "runtime-main.js": "/sifodiaz-25-Plus-5-Clock/static/js/runtime-main.f201dcf3.js",
+    "runtime-main.js.map": "/sifodiaz-25-Plus-5-Clock/static/js/runtime-main.f201dcf3.js.map",
+    "static/js/2.6cb896ff.chunk.js": "/sifodiaz-25-Plus-5-Clock/static/js/2.6cb896ff.chunk.js",
+    "static/js/2.6cb896ff.chunk.js.map": "/sifodiaz-25-Plus-5-Clock/static/js/2.6cb896ff.chunk.js.map",
+    "static/js/3.0a0285b7.chunk.js": "/sifodiaz-25-Plus-5-Clock/static/js/3.0a0285b7.chunk.js",
+    "static/js/3.0a0285b7.chunk.js.map": "/sifodiaz-25-Plus-5-Clock/static/js/3.0a0285b7.chunk.js.map",
+    "index.html": "/sifodiaz-25-Plus-5-Clock/index.html",
+    "static/css/main.5bf10aad.chunk.css.map": "/sifodiaz-25-Plus-5-Clock/static/css/main.5bf10aad.chunk.css.map",
+    "static/js/2.6cb896ff.chunk.js.LICENSE.txt": "/sifodiaz-25-Plus-5-Clock/static/js/2.6cb896ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f201dcf3.js",
+    "static/js/2.6cb896ff.chunk.js",
+    "static/css/main.5bf10aad.chunk.css",
+    "static/js/main.5ef859c1.chunk.js"
+  ]
+}
